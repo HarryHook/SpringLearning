@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="aspectj-1.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/jdom-2.0.6/aspectj-1.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Documents/jdom-2.0.6/aspectj-1.8.0.jar!/doc/aspectj5rt-api" />
+      <root url="jar://$USER_HOME$/Documents/jdom-2.0.6/aspectj-1.8.0.jar!/doc/runtime-api" />
+      <root url="jar://$USER_HOME$/Documents/jdom-2.0.6/aspectj-1.8.0.jar!/doc/weaver-api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Documents/jdom-2.0.6/aspectj-1.8.0.jar!/doc/examples" />
+      <root url="jar://$USER_HOME$/Documents/jdom-2.0.6/aspectj-1.8.0.jar!/doc/examples/ltw" />
+    </SOURCES>
+  </library>
+</component>

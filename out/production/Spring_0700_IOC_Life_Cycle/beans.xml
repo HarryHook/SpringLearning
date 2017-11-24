@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans-2.5.xsd">
+    <!-- id和name的区别只是name里可以添加特殊字符 #//之类的
+     <bean id="u" class="com.UserDAOImpl">
+    -->
+    <bean name="u" class="com.bjsxt.dao.impl.UserDAOImpl">
+    </bean>
+    <bean name="userDAO" class="com.bjsxt.dao.impl.UserDAOImpl">
+        <property name="daoId" value="8"></property>
+        <property name="daoStatus" value="good"></property>
+    </bean>
+    <bean id="userService" class="com.bjsxt.service.UserService" init-method="init" destroy-method="destory" scope="prototype">
+        <!--
+        <property name="userDAO" ref="u" />
+-->
+        <constructor-arg ref="u"></constructor-arg>
+    </bean>
+
+
+</beans>
