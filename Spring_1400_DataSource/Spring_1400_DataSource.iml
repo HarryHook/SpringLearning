@@ -18,5 +18,7 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="aspectjtools-1.8.0" level="application" />
+    <orderEntry type="library" name="lib" level="application" />
+    <orderEntry type="library" name="libs" level="application" />
   </component>
 </module>

@@ -17,7 +17,6 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="Spring-3.2.18.RELEASE" level="application" />
     <orderEntry type="library" name="aspectj-1.8.0" level="project" />
     <orderEntry type="library" name="aspectjtools-1.8.0" level="project" />
   </component>
