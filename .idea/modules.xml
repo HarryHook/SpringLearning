@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring_1200_Annoation_Component/Spring_1200_AOP_Annoation.iml" filepath="$PROJECT_DIR$/Spring_1200_Annoation_Component/Spring_1200_AOP_Annoation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring_1300_AOP_XML/Spring_1300_AOP_XML.iml" filepath="$PROJECT_DIR$/Spring_1300_AOP_XML/Spring_1300_AOP_XML.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring_1400_DataSource/Spring_1400_DataSource.iml" filepath="$PROJECT_DIR$/Spring_1400_DataSource/Spring_1400_DataSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1500_Spring_Hibernate_Transaction/Spring_1500_Spring_Hibernate_Transaction.iml" filepath="$PROJECT_DIR$/Spring_1500_Spring_Hibernate_Transaction/Spring_1500_Spring_Hibernate_Transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlearning.iml" filepath="$PROJECT_DIR$/springlearning.iml" />
     </modules>
   </component>
