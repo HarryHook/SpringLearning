@@ -7,7 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="aspectjtools-1.8.0" level="application" />
     <orderEntry type="module-library">
       <library name="JUnit4">
         <CLASSES>

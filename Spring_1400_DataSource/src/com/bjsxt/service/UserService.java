@@ -22,7 +22,7 @@ public class UserService {
 		return userDAO;
 	}
 	
-	@Resource
+	@Resource(name="u")
 	public void setUserDAO( UserDAO userDAO) {
 		this.userDAO = userDAO;
 	}

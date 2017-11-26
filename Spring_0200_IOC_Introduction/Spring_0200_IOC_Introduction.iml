@@ -27,6 +27,5 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="aspectjtools-1.8.0" level="application" />
   </component>
 </module>
