@@ -2,8 +2,6 @@ package com.bjsxt.service;
 
 import com.bjsxt.dao.UserDAO;
 import com.bjsxt.model.User;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 
 import javax.annotation.Resource;
 

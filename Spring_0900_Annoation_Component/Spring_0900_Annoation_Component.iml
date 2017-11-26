@@ -17,5 +17,41 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/jar-tools/jar-tools/jta-1.1.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/aspectjrt.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/hibernate3.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/antlr-2.7.6.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/dom4j-1.6.1.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/ognl-2.6.11.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/xwork-2.1.2.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/commons-dbcp.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/commons-pool.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/log4j-1.2.15.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/spring-2.5.6.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/aspectjweaver.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/slf4j-api-1.5.8.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/commons-io-1.3.2.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/ejb3-persistence.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/cglib-nodep-2.1_3.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/freemarker-2.3.13.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/common-annotations.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/javassist-3.9.0.GA.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/struts2-core-2.1.6.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/commons-logging-1.1.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/slf4j-log4j12-1.5.8.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/hibernate-annotations.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/commons-collections-3.1.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/commons-fileupload-1.2.1.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/struts2-spring-plugin-2.1.6.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/hibernate-commons-annotations.jar!/" />
+          <root url="jar://F:/jar-tools/jar-tools/mysql-connector-java-3.1.13-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

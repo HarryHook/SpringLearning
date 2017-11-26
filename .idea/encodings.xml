@@ -7,5 +7,6 @@
     <file url="file://$PROJECT_DIR$/Spring_1100_AOP_Introduction/src/Sample1.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Spring_1400_DataSource/src/test/com/bjsxt/service/UserServiceTest.java" charset="GBK" />
     <file url="file://$PROJECT_DIR$/Spring_1500_Spring_Hibernate_Transaction/src/test/com/bjsxt/service/UserServiceTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Spring_1600_Spring_Hibernate_XML/src/test/com/bjsxt/service/UserServiceTest.java" charset="GBK" />
   </component>
 </project>

@@ -5,8 +5,6 @@ import com.bjsxt.dao.UserDAO;
 import com.bjsxt.model.Log;
 import com.bjsxt.model.User;
 import org.springframework.stereotype.Component;
-import org.springframework.transaction.annotation.Propagation;
-import org.springframework.transaction.annotation.Transactional;
 
 import javax.annotation.Resource;
 
@@ -20,8 +18,9 @@ public class UserService {
     public void init() {
         System.out.println("init");
     }
+//以注解形式进行事务管理
+//    @Transactional(propagation = Propagation.REQUIRED)
 
-    @Transactional(propagation = Propagation.REQUIRED)
     public void add(User user) {
 
         userDAO.save(user);
