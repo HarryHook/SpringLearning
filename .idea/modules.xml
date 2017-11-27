@@ -18,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/Spring_1400_DataSource/Spring_1400_DataSource.iml" filepath="$PROJECT_DIR$/Spring_1400_DataSource/Spring_1400_DataSource.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring_1500_Spring_Hibernate_Transaction/Spring_1500_Spring_Hibernate_Transaction_Annoation.iml" filepath="$PROJECT_DIR$/Spring_1500_Spring_Hibernate_Transaction/Spring_1500_Spring_Hibernate_Transaction_Annoation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring_1600_Spring_Hibernate_XML/Spring_1600_Spring_Hibernate_XML.iml" filepath="$PROJECT_DIR$/Spring_1600_Spring_Hibernate_XML/Spring_1600_Spring_Hibernate_XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1700_Spring_Hibernate_HibernateTemplate/Spring_1700_Spring_Hibernate_HibernateTemplate.iml" filepath="$PROJECT_DIR$/Spring_1700_Spring_Hibernate_HibernateTemplate/Spring_1700_Spring_Hibernate_HibernateTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_1800_Spring_Hibernate_HibernateDaoSupport/Spring_1800_Spring_Hibernate_HibernateDaoSupport.iml" filepath="$PROJECT_DIR$/Spring_1800_Spring_Hibernate_HibernateDaoSupport/Spring_1800_Spring_Hibernate_HibernateDaoSupport.iml" />
       <module fileurl="file://$PROJECT_DIR$/springlearning.iml" filepath="$PROJECT_DIR$/springlearning.iml" />
     </modules>
   </component>
