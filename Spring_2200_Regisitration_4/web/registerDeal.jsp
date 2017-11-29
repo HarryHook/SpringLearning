@@ -24,7 +24,7 @@
     Class.forName("com.mysql.jdbc.Driver");
     Connection conn = DriverManager.getConnection("jdbc:mysql://localhost/spring", "root", "123");
 
-    UserManager userManager = new UserManager();
+    UserManager userManager = new UserManagerImpl();
     boolean exist = userManager.exists(user);
     if(exist) {
         response.sendRedirect("registerFail.jsp");
