@@ -1,4 +1,4 @@
-package com.bjsxt.registeration.service.impl;
+package com.bjsxt.registeration.service;
 
 import com.bjsxt.registeration.model.User;
 

@@ -8,7 +8,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" import="java.util.*, java.sql.*" %>
 <%@ page import="com.bjsxt.registeration.model.*" %>
 <%@ page import="com.bjsxt.registeration.service.*" %>
-<%@ page import="com.bjsxt.registeration.service.impl.UserManager" %>
+<%@ page import="com.bjsxt.registeration.service.UserManager" %>
+<%@ page import="com.bjsxt.registeration.service.impl.UserManagerImpl" %>
 
 <%
     String path = request.getContextPath();
