@@ -38,7 +38,7 @@
         <!-- Drop and re-create the database schema on startup
         <property name="hbm2ddl.auto">update</property>
 		 -->
-        <mapping class="com.bjsxt.registeration.model.User"/>
+        <mapping class="com.bjsxt.registration.model.User"/>
 		
 		
     </session-factory>
