@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Spring_2700_Registration_UserList_9:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spring_2700_Registration_UserList_9_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Spring_2700_Registration_UserList_9/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Spring_2700_Registration_UserList_9" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="jar-tools" />
+          <element id="library" level="project" name="aspectjtools-1.8.0" />
+          <element id="library" level="module" name="JUnit4" module-name="Spring_2700_Registration_UserList_9" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
