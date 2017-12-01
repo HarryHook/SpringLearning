@@ -11,7 +11,7 @@
     <title>用户注册</title>
 </head>
     <body>
-        <form method="post" action="user.action">
+        <form method="post" action="userAction.action">
             用户名:<input type="text" name="username"><br>
             密码:<input type="password" name="password"><br>
             确认密码:<input type="password" name="password2"><br>

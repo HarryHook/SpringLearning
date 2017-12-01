@@ -10,6 +10,7 @@
             <result name="success">/registerSuccess.jsp</result>
             <result name="fail">/registerFail.jsp</result>
             <result name="list">/userlist.jsp</result>
+            <result name="load">/usershow.jsp</result>
         </action>
     </package>
 
