@@ -5,8 +5,6 @@ import com.bjsxt.registration.service.UserManager;
 import com.bjsxt.registration.vo.UserRegisterInfo;
 import com.opensymphony.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ModelDriven;
-import org.springframework.context.annotation.Scope;
-import org.springframework.stereotype.Component;
 
 import javax.annotation.Resource;
 import java.util.ArrayList;
@@ -15,8 +13,8 @@ import java.util.List;
 Component最好设置为与类名相同的属性
 否则会因为struts.objectFactory.spring.autoWire 下默认按 name 关联到 bean 上
  */
-@Component("userAction")
-@Scope("prototype")
+//@Component("userAction")
+//@Scope("prototype")
 public class UserAction extends ActionSupport implements ModelDriven {
 
     private UserRegisterInfo userInfo = new UserRegisterInfo();
@@ -25,9 +23,12 @@ public class UserAction extends ActionSupport implements ModelDriven {
 
     private List<User> users = new ArrayList<User>();
     private User user;
-
+    public UserAction() {
+        System.out.println("UserAction created!");
+    }
     @Override
     public String execute() throws Exception {
+        System.out.println(userInfo.getUsername());
         User u = new User();
         u.setUsername(userInfo.getUsername());
         u.setPassword(userInfo.getPassword());
